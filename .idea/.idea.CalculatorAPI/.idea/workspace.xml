@@ -9,7 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b152f214-a857-4c99-bab1-f6ae4dbfb2a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Controllers/CalculatorController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CalculatorAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CalculatorAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorAPI.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,9 @@
     "accountId": "5b95d011-b2e5-4aed-bb4a-d4b658d466c5"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Controllers/CalculatorController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -99,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755731866101</updated>
-      <workItem from="1755731870280" duration="3034000" />
+      <workItem from="1755731870280" duration="4082000" />
     </task>
     <servers />
   </component>
